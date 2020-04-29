@@ -1,0 +1,19 @@
+What is Unit Testing?
+It is the execution of a complete class,
+routine or small program that has been written by a single programmer or team of programmers,
+which is tested in isolation from the more complete system. 
+It is to test the smallest units or software components in a program.
+
+Unit testing is conducted by the developer using development tools in their Integrated Development Environment.
+
+It is a type of white box testing, since they can be exposed to the inner workings, i.e codes, of the programme.
+
+What is Integration Testing?
+It is the combined execution of two or more classes, packages, components, or subsystems
+that have been created by multiple programmers or programming teams.
+It is a software testing technique where individual units of a program are combined and tested as a group.
+[Line 11+12 and 13 says the same thing]
+
+It is conducted by multiple programmers or programming teams and tests integration between software modules.
+
+It can fall under both black and white box testing.
