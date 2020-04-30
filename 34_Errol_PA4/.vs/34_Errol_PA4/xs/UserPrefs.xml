@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{834586EB-354E-CD5E-3FE9-AAE414C16F41}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NavigationScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NavigationScript.cs" Line="26" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="34_Errol_PA4" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="NavigationScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="97c4fa38-38db-49e0-9f47-43e7383dcb0a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

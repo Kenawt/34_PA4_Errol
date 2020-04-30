@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\NavigationScript.cs" />
     <Compile Include="Assets\Scripts\Roller.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Christina Tay/Documents/GitHub/34_PA4_Errol/34_Errol_PA4/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
